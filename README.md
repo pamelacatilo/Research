@@ -26,7 +26,7 @@ Why SQL?
 *Scalability and Performance
 
 
-The easiest way to use SQL  - pysqldf 
+1. The easiest way to use SQL  - pysqldf 
 
 pandasql allows you to query pandas DataFrames using SQL syntax. It works similarly to sqldf in R. 
 pandasql seeks to provide a more familiar way of manipulating and cleaning data for people new to Python or pandas.
@@ -42,7 +42,7 @@ pandasql
 >pip install - U
 pysqldf
 
-Using SQLite
+2. Using SQLite
 
 *Automatically Installed with Python. Batteries included.
 
@@ -51,6 +51,16 @@ Using SQLite
 *Good SQL support
 
 *Greate for local application or analysis work.
+
+3. Accessing SQL Server from Python with ODBC 
+
+*Accessing SQL databases - using ODBC to connect to databases
+
+*Maximum Flexibility
+
+*A production grade solution
+
+
 
 
 
